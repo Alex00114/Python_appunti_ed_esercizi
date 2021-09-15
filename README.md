@@ -5,8 +5,8 @@ In questa repository è contenuto tutto il lavoro della classe 3a della materia 
 [Istituto Galvani](https://www.iisgalvanimi.edu.it/)
 
 Linguaggi:
--Visual Basic
--Python
--JavaScript
+* Visual Basic
+* Python
+* JavaScript
 
 [Immagine dell'istituto](https://www.iisgalvanimi.edu.it/sites/default/files/image_gallery/scuola.jpg)
