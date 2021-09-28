@@ -1,2 +1,6 @@
 Slicing: meccansimo attraverso il quale recuperiamo una parte della lista in Python.
 List Comprehension: meccanismo attraverso il quale costruiamo una lista scrivendo nelle parentesi quadre le istruzioni per generare i singoli elementi della lista.
+Funzione: Le funzioni sono uno strumento che ci permette di raggruppare un insieme di istruzioni che eseguono un compito specifico.
+Una funzione può avere zero o più parametri, detti anche **argomenti**.
+Argomenti: Valori di ingresso su cui avviene la elaborazione
+Una funzione ha anche dei valori in uscita.
