@@ -8,3 +8,4 @@ Parametro formale: il parametro con cui viene formata la funzione. --> def scamb
 Parametro attuale: il parametro su cui si lavora in quel momento. --> scambia(parametroAtuuale)
 La funzione deve essere separata dall'insieme di istruzioni che riguardano l'interfaccia dell'utente.
 Map: è una funzione che applica a ogni elemeneto della lista(secondo parametro) una funzione. --> (guardare numero 7 in "Copia di esercizio4.ipynb")
+Fattoriale: numero moltiplicato per i suoi antecedenti. esempio --> fattoriale(5) = 5 * 4 * 3 * 2 * 1
