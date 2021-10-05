@@ -4,3 +4,5 @@ Funzione: Le funzioni sono uno strumento che ci permette di raggruppare un insie
 Una funzione può avere zero o più parametri, detti anche argomenti.
 Argomenti: Valori di ingresso su cui avviene la elaborazione
 Una funzione ha anche dei valori in uscita.
+Parametro formale: il parametro con cui viene formata la funzione. --> def scambia(parametroFormale)
+Parametro attuale: il parametro su cui si lavora in quel momento. --> scambia(parametroAtuuale)
